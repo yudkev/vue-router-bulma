@@ -1,7 +1,7 @@
 
-# my-project
+# vue-router-bulma
 
-> A Vue.js project
+> A simple responsive project based on <a href="https://github.com/vuejs/vue-cli">vue-cli</a> and <a href="https://github.com/vuejs/vue-router">vue-router</a> with reload, <a href="https://github.com/sass/node-sass">node-sass</a>, and <a href="https://github.com/jgthms/bulma">Bulma</a>
 
 ## Build Setup
 
